@@ -1,3 +1,14 @@
 <profile version="1.0">
   <option name="myName" value="Default" />
+  <inspection_tool class="MessDetectorValidationInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+    <option name="CODESIZE" value="true" />
+    <option name="DESIGN" value="true" />
+    <option name="UNUSEDCODE" value="true" />
+  </inspection_tool>
+  <inspection_tool class="PhpCSValidationInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+    <option name="CODING_STANDARD" value="Custom" />
+    <option name="CUSTOM_RULESET_PATH" value="$USER_HOME$/projects/wa3/vendor/fig-r/psr2r-sniffer/PSR2R/ruleset.xml" />
+    <option name="WARNING_HIGHLIGHT_LEVEL_NAME" value="ERROR" />
+  </inspection_tool>
+  <inspection_tool class="PhpMissingDocCommentInspection" enabled="true" level="WARNING" enabled_by_default="true" />
 </profile>
