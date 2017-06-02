@@ -16,6 +16,9 @@
   <JSCodeStyleSettings>
     <option name="SPACE_BEFORE_FUNCTION_LEFT_PARENTH" value="false" />
   </JSCodeStyleSettings>
+  <Perl5CodeStyleSettings>
+    <option name="SPACE_AROUND_CONCAT_OPERATOR" value="true" />
+  </Perl5CodeStyleSettings>
   <codeStyleSettings language="Blade">
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
