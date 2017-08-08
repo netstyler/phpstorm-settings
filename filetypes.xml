@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="ctp" type="PHP" />
       <mapping pattern="empty" type="PLAIN_TEXT" />
+      <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="gz" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
