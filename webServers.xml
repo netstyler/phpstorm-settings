@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="3f8b29af-ae84-40a9-abe8-10af7c3c8bc4" name="web-web-test-01" url="http://apptest.swiss-architects.com">
+        <fileTransfer host="172.16.1.21" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/opt/wa3" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
