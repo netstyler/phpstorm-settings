@@ -6,6 +6,7 @@
       <mapping pattern="cake_swiss_architects_com" type="PLAIN_TEXT" />
       <mapping pattern="myapp_cake_core_translations_wa_de_ch" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
+      <mapping ext="cfg" type="PLAIN_TEXT" />
       <mapping ext="gz" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
