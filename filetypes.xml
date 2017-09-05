@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern=".gitignore_global" type="Git file" />
       <mapping ext="ctp" type="PHP" />
       <mapping pattern="empty" type="PLAIN_TEXT" />
       <mapping pattern="cake_swiss_architects_com" type="PLAIN_TEXT" />
