@@ -1,19 +1,4 @@
 <application>
-  <component name="MessDetector">
-    <phpmd_settings>
-      <MessDetectorConfiguration tool_path="/Volumes/DATA/Projects/wa3/bin/phpmd" />
-    </phpmd_settings>
-  </component>
-  <component name="PhpCodeSniffer">
-    <phpcs_settings>
-      <PhpCSConfiguration standards="MySource;PEAR;PHPCS;PSR1;PSR2;Squiz;Zend" tool_path="/Volumes/DATA/Projects/wa3/bin/phpcs" />
-    </phpcs_settings>
-  </component>
-  <component name="PhpInterpreters">
-    <interpreters>
-      <interpreter home="/usr/local/Cellar/php71/7.1.5_17/bin/php" id="d65ca306-b13c-4641-8c01-280b5b5e660c" name="PHP 7.1" debugger_id="php.debugger.XDebug" />
-    </interpreters>
-  </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP 7.1">
