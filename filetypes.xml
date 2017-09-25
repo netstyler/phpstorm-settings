@@ -1,7 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="sls" type="Native" />
       <mapping ext="ctp" type="PHP" />
+      <mapping pattern="*sls" type="YAML" />
     </extensionMap>
   </component>
 </application>
