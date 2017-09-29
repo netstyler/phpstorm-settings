@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="sls" type="Native" />
       <mapping ext="ctp" type="PHP" />
+      <mapping ext="options" type="PLAIN_TEXT" />
       <mapping pattern="*sls" type="YAML" />
     </extensionMap>
   </component>
