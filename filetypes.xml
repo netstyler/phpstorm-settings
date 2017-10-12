@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="ctp" type="PHP" />
+      <mapping ext="options" type="PLAIN_TEXT" />
       <removed_mapping ext="rb" type="PLAIN_TEXT" />
       <mapping pattern="rake" type="textmate" />
       <mapping pattern=".vagrantplugins" type="textmate" />
