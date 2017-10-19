@@ -1,7 +1,8 @@
 <application>
-  <component name="DatabaseSettings">
+  <component name="DatabaseSettings" version="2">
+    <option name="submit-immediately" value="true" />
     <csv-formats>
-      <csv-format name="Tab-separated (TSV)">
+      <csv-format name="Tab-separated (TSV)" id="5f316425-0477-4e74-8619-ee38ce0296a8">
         <data>
           <record-format prefix="" suffix="" nullText="" quotationPolicy="as needed" valueSeparator="&#9;" recordSeparator="&#10;">
             <quotation>
@@ -11,7 +12,7 @@
           </record-format>
         </data>
       </csv-format>
-      <csv-format name="Comma-separated (CSV)">
+      <csv-format name="Comma-separated (CSV)" id="183e9c80-5dbf-41b5-addf-d513a594cfed">
         <data>
           <record-format prefix="" suffix="" nullText="" quotationPolicy="as needed" valueSeparator="," recordSeparator="&#10;">
             <quotation>
