@@ -1,5 +1,0 @@
-<application>
-  <component name="NotificationConfiguration">
-    <notification groupId="TextMate Bundles" shouldLog="false" />
-  </component>
-</application>
