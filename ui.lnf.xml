@@ -1,8 +1,5 @@
 <application>
   <component name="UISettings">
-    <option name="EDITOR_TAB_LIMIT" value="100" />
-    <option name="EDITOR_TAB_PLACEMENT" value="4" />
-    <option name="FONT_FACE" value=".SFNSText-Regular" />
     <option name="HIDE_TOOL_STRIPES" value="false" />
   </component>
 </application>
