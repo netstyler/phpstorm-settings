@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="ctp" type="PHP" />
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
+      <mapping pattern="empty" type="PLAIN_TEXT" />
       <mapping pattern=".yarnrc" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
