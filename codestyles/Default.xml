@@ -1,14 +1,4 @@
 <code_scheme name="Default" version="173">
-  <option name="OTHER_INDENT_OPTIONS">
-    <value>
-      <option name="USE_TAB_CHARACTER" value="true" />
-    </value>
-  </option>
-  <JSCodeStyleSettings>
-    <option name="USE_DOUBLE_QUOTES" value="false" />
-    <option name="FORCE_QUOTE_STYlE" value="true" />
-    <option name="SPACES_WITHIN_IMPORTS" value="true" />
-  </JSCodeStyleSettings>
   <codeStyleSettings language="Blade">
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
@@ -41,7 +31,6 @@
   </codeStyleSettings>
   <codeStyleSettings language="JSON">
     <indentOptions>
-      <option name="INDENT_SIZE" value="4" />
       <option name="USE_TAB_CHARACTER" value="true" />
     </indentOptions>
   </codeStyleSettings>
@@ -52,6 +41,7 @@
   </codeStyleSettings>
   <codeStyleSettings language="LESS">
     <indentOptions>
+      <option name="INDENT_SIZE" value="4" />
       <option name="USE_TAB_CHARACTER" value="true" />
     </indentOptions>
   </codeStyleSettings>
@@ -62,6 +52,7 @@
   </codeStyleSettings>
   <codeStyleSettings language="SASS">
     <indentOptions>
+      <option name="INDENT_SIZE" value="4" />
       <option name="USE_TAB_CHARACTER" value="true" />
     </indentOptions>
   </codeStyleSettings>
