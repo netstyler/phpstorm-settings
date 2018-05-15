@@ -4,7 +4,7 @@
       <mapping ext="ctp" type="PHP" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="id_rsa" type="PLAIN_TEXT" />
-      <mapping pattern=".yarnrc" type="PLAIN_TEXT" />
+      <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="sccs" type="PLAIN_TEXT" />
       <mapping ext="sls" type="YAML" />
