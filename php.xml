@@ -2,23 +2,23 @@
   <component name="MessDetector">
     <phpmd_settings_migrated />
     <phpmd_settings>
-      <MessDetectorConfiguration tool_path="E:\projects\wa3\bin\phpmd.bat" />
+      <MessDetectorConfiguration tool_path="E:/projects/wa3/bin/phpmd" />
     </phpmd_settings>
   </component>
   <component name="PhpCodeSniffer">
     <phpcs_settings_migrated />
     <phpcs_settings>
-      <PhpCSConfiguration standards="MySource;PEAR;PSR1;PSR2;Squiz;Zend" tool_path="E:\projects\wa3\bin\phpcs.bat" />
+      <PhpCSConfiguration standards="MySource;PEAR;PSR1;PSR2;Squiz;Zend" tool_path="E:/projects/wa3/bin/phpcs" />
     </phpcs_settings>
   </component>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter home="C:\MAMP\bin\php\php7.1.5\php.exe" id="26d8c472-dddd-4011-b40c-345ee9f4ba30" name="PHP 7.1" debugger_id="php.debugger.XDebug" />
+      <interpreter home="C:\MAMP\bin\php\php7.1.5\php.exe" id="26d8c472-dddd-4011-b40c-345ee9f4ba30" name="PHP 7.1-local" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
-      <interpreter name="PHP 7.1">
+      <interpreter name="PHP 7.1-local">
         <phpinfo binary_type="PHP" php_cgi="C:\MAMP\bin\php\php7.1.5\php-cgi.exe" php_cli="C:\MAMP\bin\php\php7.1.5\php.exe" path_separator=";" version="7.1.5">
           <additional_php_ini />
           <configuration_file>C:\WINDOWS\php.ini</configuration_file>
