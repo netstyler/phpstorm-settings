@@ -21,7 +21,7 @@
       <interpreter name="PHP 7.2-local">
         <phpinfo binary_type="PHP" php_cgi="C:\webstack\php7.2\php-cgi.exe" php_cli="C:\webstack\php7.2\php.exe" path_separator=";" version="7.2.2">
           <additional_php_ini />
-          <configuration_file>C:\webstack\php7.2\php.ini</configuration_file>
+          <configuration_file>C:\webstack\php7.2\php-cli.ini</configuration_file>
           <configuration_options>
             <configuration_option name="include_path" value=".;C:\php\pear" />
           </configuration_options>
