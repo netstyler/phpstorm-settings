@@ -6,6 +6,7 @@
       <mapping ext="ctp" type="PHP" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="id_rsa" type="PLAIN_TEXT" />
+      <mapping pattern="dev-server" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="x" type="PLAIN_TEXT" />
